@@ -8,3 +8,6 @@ crash.log
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate.backup
+
+#Node
+node_modules/
