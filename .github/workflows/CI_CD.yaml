@@ -1,0 +1,13 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  aJob:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Someday a step
+        run: echo "yep, this is a step"
