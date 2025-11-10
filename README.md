@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <!-- Badges -->
-  <img alt="Node.js" src="https://img.shields.io/badge/node-%3E%3D18-brightgreen" />&nbsp;
-  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%3E%3D1.0-6537ff" />&nbsp;
+  <img alt="Node.js" src="https://img.shields.io/badge/node-%3E%3D20-brightgreen" />&nbsp;
+  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%3E%3D1.13-6537ff" />&nbsp;
   <img alt="Google Cloud" src="https://img.shields.io/badge/google--cloud-GCP-blue" />&nbsp;
   <img alt="OpenAI" src="https://img.shields.io/badge/llm-OpenAI-000000?logo=openai&logoColor=white" />&nbsp;
 </p>

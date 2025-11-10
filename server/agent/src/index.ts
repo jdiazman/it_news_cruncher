@@ -9,6 +9,7 @@ const app = express()
 app.get("/", async (_req, res) => {
   try {
     const briefing = await fetchBriefing()
+    console.log(briefing)
     res.status(200).send(briefing)
   } catch (err: any) {
     console.error("Error generating briefing:", err)
