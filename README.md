@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/it-news-cruncher-logo.svg" alt="it_news_cruncher" width="120" />
+    <img src="assets/it-news-cruncher-logo.png" alt="it_news_cruncher" width="120" />
 </p>
 
 # it_news_cruncher
